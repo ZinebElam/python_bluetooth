@@ -16,4 +16,4 @@ The code currently provides two simple scripts:
 	- `app.py`: simple Flask app
 
 An devices.json file is provided as an example.
-The bluetooth code in `blscan` uses PyBluez library.
+The bluetooth code in `blscan` uses PyBluez library.# python_bluetooth
